@@ -14,7 +14,7 @@
       <td><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEaaKaeCyiJag/profile-displayphoto-shrink_200_200/0/1645035204123?e=1650499200&v=beta&t=kk6rqZNNoyemffGXEVt2ceBsmeNtC3nKo73IQwDSFng" alt="Stella's profile pictur"></td>
       <td>
         <h1>Stella Ekere</h1>
-        <p><em><strong>I am a Web Developer</strong>, that just graduated from Kenzie Academy.</em></p>
+        <p><em><strong>I am a Web Developer</strong>, that just graduated from Kenzie Academy, from Southern New Hampshire University.</em></p>
         <p>This is a summary of my resume</p>
         <a href="https://www.linkedin.com/in/stella-ekere-2b3615224">linkedin</a>
         <a href="Contact-me.html">Contact Me</a>
